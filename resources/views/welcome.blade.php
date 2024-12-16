@@ -217,7 +217,8 @@
                 <div class="p-6 flex flex-col items-center">
                     <h1 class="text-2xl text-center font-semibold text-gray-800">Mikroskop & Preparat
                     </h1>
-                    <p class="text-gray-600 text-sm text-center py-5 pb-[4.2rem]">Berbagai jenis mikroskop dan preparat untuk
+                    <p class="text-gray-600 text-sm text-center py-5 pb-[4.2rem]">Berbagai jenis mikroskop dan preparat
+                        untuk
                         kebutuhan penelitian.</p>
                     <button
                         class="bg-green-500 hover:bg-green-600 text-white font-medium py-2 px-4 rounded-md mt-4">Pesan
