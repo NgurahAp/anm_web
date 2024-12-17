@@ -8,7 +8,7 @@
     <!-- Testimonial -->
     <div class="w-[53%] pt-12 pr-24">
         <p class="text-green-700 font-bold pb-6 text-lg">Testimonial</p>
-        <h1 class="font-extrabold text-5xl text-gray-800 pb-6">Apa Kata Pelanggan Kami</h1>
+        <h1 class="font-extrabold text-5xl text-gray-800 pb-6 font-urbanist">Apa Kata Pelanggan Kami</h1>
         <h1 class="font-poppins text-gray-500 text-lg pb-16">Dengarkan langsung dari pelanggan kami tentang pengalaman
             mereka menggunakan produk dan layanan PT Anugrah Niaga Mandiri.</h1>
         {{-- Card --}}
