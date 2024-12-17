@@ -23,6 +23,7 @@
     <x-whyUs />
     <x-products />
     <x-howToOrder />
+    <x-testimonial />
 </body>
 
 </html>
