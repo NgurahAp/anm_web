@@ -13,8 +13,8 @@
             </a>
         </div>
         <div class="w-1/3">
-            <img class="w-96" src="{{ asset('images/densimeter.jpg') }}" alt="Logo">
+            <img class="w-96" src="{{ asset('images/landing/densimeter.jpg') }}" alt="Logo">
         </div>
-        <img src="{{ asset('images/navbar_logo.jpg') }}" alt="Densimeter" class="absolute bottom-12 right-10 w-40">
+        <img src="{{ asset('images/landing/navbar_logo.jpg') }}" alt="Densimeter" class="absolute bottom-12 right-10 w-40">
     </div>
 </section>

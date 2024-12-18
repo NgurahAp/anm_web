@@ -1,7 +1,7 @@
 <section class="min-h-screen flex items-center">
     <div class="flex gap-x-10 px-24 ">
         <div class="w-1/2">
-            <img class="w-full" src="{{ asset('images/about_us.jpg') }}" alt="Logo">
+            <img class="w-full" src="{{ asset('images/landing/about_us.jpg') }}" alt="Logo">
         </div>
         <div class="w-1/2 font-urbanist">
             <p class="text-green-700 font-extrabold pb-6 text-lg">Tentang Kami</p>

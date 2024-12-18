@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="w-1/2">
-                <img class="w-full" src="{{ asset('images/why_us.jpg') }}" alt="Logo">
+                <img class="w-full" src="{{ asset('images/landing/why_us.jpg') }}" alt="Logo">
             </div>
         </div>
     </section>

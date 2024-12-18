@@ -1,7 +1,7 @@
-    <footer class="h-[65vh] bg-[#333333] py-16 px-20">
+    <footer class="h-[60vh] bg-[#333333] py-16 px-20">
         <div class="flex">
             <div>
-                <img src="{{ asset('images/footer_logo.jpg') }}" alt="Gold Meter & Precious Metal Tester" class="w-32">
+                <img src="{{ asset('images/landing/footer_logo.jpg') }}" alt="Gold Meter & Precious Metal Tester" class="w-32">
                 <div class="flex py-7">
                     <div class="bg-red-500 p-4 rounded-full">
                         <img src="{{ asset('images/landing/whatsapp.png') }}" alt="Gold Meter & Precious Metal Tester"

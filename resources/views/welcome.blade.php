@@ -16,15 +16,15 @@
 </head>
 
 <body class="font-poppins">
-    <x-navbar />
-    <x-heroSection />
-    <x-aboutUs />
-    <x-whyUs />
-    <x-products />
-    <x-howToOrder />
-    <x-testimonial />
-    <x-contactUs />
-    <x-footer />
+    <x-landing.navbar />
+    <x-landing.heroSection />
+    <x-landing.aboutUs />
+    <x-landing.whyUs />
+    <x-landing.products />
+    <x-landing.howToOrder />    
+    <x-landing.testimonial />
+    <x-landing.contactUs />
+    <x-landing.footer />
 </body>
 
 </html>

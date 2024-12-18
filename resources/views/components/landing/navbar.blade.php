@@ -3,7 +3,7 @@
         <div class="flex items-center justify-between h-24">
             <!-- Logo -->
             <div class="flex-shrink-0">
-                <img class="h-16" src="{{ asset('images/navbar_logo.jpg') }}" alt="Logo">
+                <img class="h-16" src="{{ asset('images/landing/navbar_logo.jpg') }}" alt="Logo">
             </div>
             <div class="hidden md:block">
                 <div class="flex space-x-6">

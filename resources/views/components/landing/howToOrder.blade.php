@@ -7,7 +7,7 @@
         <div class="bg-white rounded-lg   overflow-hidden">
             <h1 class="text-center text-2xl font-bold text-gray-700  pb-14">Step 1</h1>
             <div class="flex justify-center">
-                <img src="{{ asset('images/konsultasi_product.png') }}" alt="Gold Meter & Precious Metal Tester"
+                <img src="{{ asset('images/landing/konsultasi_product.png') }}" alt="Gold Meter & Precious Metal Tester"
                     class=" h-48 object-cover">
 
             </div>
@@ -22,7 +22,7 @@
         <div class="bg-white rounded-lg   overflow-hidden">
             <h1 class="text-center text-2xl font-bold text-gray-700  pb-14">Step 2</h1>
             <div class="flex justify-center">
-                <img src="{{ asset('images/penawaran_harga.png') }}" alt="Gold Meter & Precious Metal Tester"
+                <img src="{{ asset('images/landing/penawaran_harga.png') }}" alt="Gold Meter & Precious Metal Tester"
                     class=" h-48 object-cover">
 
             </div>
@@ -36,7 +36,7 @@
         <div class="bg-white rounded-lg   overflow-hidden">
             <h1 class="text-center text-2xl font-bold text-gray-700  pb-14">Step 3</h1>
             <div class="flex justify-center">
-                <img src="{{ asset('images/proses_pengiriman.png') }}" alt="Gold Meter & Precious Metal Tester"
+                <img src="{{ asset('images/landing/proses_pengiriman.png') }}" alt="Gold Meter & Precious Metal Tester"
                     class=" h-48 object-cover">
 
             </div>

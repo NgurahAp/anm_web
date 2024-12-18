@@ -1,7 +1,7 @@
 <section class="min-h-screen flex">
     <!-- Gambar -->
     <div class="w-[47%] flex items-end justify-center">
-        <img src="{{ asset('images/testimonial.png') }}" alt="Gold Meter & Precious Metal Tester"
+        <img src="{{ asset('images/landing/testimonial.png') }}" alt="Gold Meter & Precious Metal Tester"
             class="w-10/12 object-cover">
     </div>
 

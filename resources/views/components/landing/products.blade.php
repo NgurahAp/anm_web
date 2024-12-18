@@ -8,7 +8,7 @@
      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
          <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden pt-10">
              <div class="flex justify-center">
-                 <img src="{{ asset('images/goldMeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
+                 <img src="{{ asset('images/landing/goldMeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
                      class=" h-56 object-cover">
 
              </div>
@@ -24,7 +24,7 @@
          </div>
          <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden pt-10">
              <div class="flex justify-center">
-                 <img src="{{ asset('images/densimeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
+                 <img src="{{ asset('images/landing/densimeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
                      class=" h-56 object-cover">
 
              </div>
@@ -40,7 +40,7 @@
          </div>
          <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden pt-10">
              <div class="flex justify-center">
-                 <img src="{{ asset('images/densimeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
+                 <img src="{{ asset('images/landing/densimeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
                      class=" h-56 object-cover">
 
              </div>
