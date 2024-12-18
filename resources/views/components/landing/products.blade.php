@@ -6,50 +6,44 @@
              Kesehatan</h1>
      </div>
      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-         <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden pt-10">
+         <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden">
              <div class="flex justify-center">
-                 <img src="{{ asset('images/landing/goldMeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
-                     class=" h-56 object-cover">
+                 <img src="{{ asset('images/landing/md-300s.jpeg') }}" alt="Gold Meter & Precious Metal Tester"
+                     class=" w-full object-cover">
 
              </div>
              <div class="p-6 flex flex-col items-center">
-                 <h1 class="text-2xl text-center font-semibold text-gray-800">Gold Meter & Precious Metal Tester
+                 <h1 class="text-2xl text-center font-semibold text-gray-800">Alfa Mirage Densimeter MD-300S
                  </h1>
-                 <p class="text-gray-600 text-sm text-center py-5">Terdapat alat Alfa Mirage GKK 3000 dan Gold Meter
-                     GK-300 untuk
-                     akurasi tinggi dalam pengukuran kadar logam mulia.</p>
+                 <p class="text-gray-600 text-sm text-center py-5 pb-[1.4rem]">Model populer dengan resolusi 0,01g/cm yang ditingkatkan dari sebelumnya model MD-200S.</p>
                  <button class="bg-green-500 hover:bg-green-600 text-white font-medium py-2 px-4 rounded-md mt-4">Pesan
                      Produk</button>
              </div>
          </div>
-         <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden pt-10">
+         <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden">
              <div class="flex justify-center">
-                 <img src="{{ asset('images/landing/densimeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
-                     class=" h-56 object-cover">
+                 <img src="{{ asset('images/landing/mds-300.jpeg') }}" alt="Gold Meter & Precious Metal Tester"
+                     class="w-full object-cover">
 
              </div>
              <div class="p-6 flex flex-col items-center">
-                 <h1 class="text-2xl text-center font-semibold text-gray-800">Densimeter</h1>
-                 <p class="text-gray-600 text-sm text-center py-5 pb-[5.5rem]">MD-300S untuk pengukuran densitas
-                     yang akurat.
-
+                 <h1 class="text-2xl text-center font-semibold text-gray-800">Elektronik Densimeter MDS-300</h1>
+                 <p class="text-gray-600 text-sm text-center py-5 pb-[1rem]">Fungsi baru pengukuran kepadatan bubuk ditambah dengan resolusi 0,001g/cm dan nilai referensi 0,0001g/cm
                  </p>
-                 <button class="bg-green-500 hover:bg-green-600 text-white font-medium py-2 px-4 rounded-md mt-4">Pesan
+                 <button class="bg-green-500 hover:bg-green-600 text-white font-medium py-2 px-4 rounded-md">Pesan
                      Produk</button>
              </div>
          </div>
-         <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden pt-10">
+         <div class="bg-white rounded-lg hover:shadow-xl border hover:border-red-500  overflow-hidden">
              <div class="flex justify-center">
-                 <img src="{{ asset('images/landing/densimeter.jpg') }}" alt="Gold Meter & Precious Metal Tester"
-                     class=" h-56 object-cover">
+                 <img src="{{ asset('images/landing/mds-3000.jpeg') }}" alt="Gold Meter & Precious Metal Tester"
+                     class=" w-full object-cover">
 
              </div>
              <div class="p-6 flex flex-col items-center">
-                 <h1 class="text-2xl text-center font-semibold text-gray-800">Mikroskop & Preparat
+                 <h1 class="text-2xl text-center font-semibold text-gray-800">Elektronik Densimeter MDS-3000
                  </h1>
-                 <p class="text-gray-600 text-sm text-center py-5 pb-[4.2rem]">Berbagai jenis mikroskop dan preparat
-                     untuk
-                     kebutuhan penelitian.</p>
+                 <p class="text-gray-600 text-sm text-center py-5 pb-[1.2rem]">MDS-3000 dapat mengukur kapasitas maksimum hingga 3kg.</p>
                  <button class="bg-green-500 hover:bg-green-600 text-white font-medium py-2 px-4 rounded-md mt-4">Pesan
                      Produk</button>
              </div>
