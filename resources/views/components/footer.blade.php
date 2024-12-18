@@ -1,4 +1,4 @@
-    <footer class="h-[60vh] bg-[#333333] py-16 px-20">
+    <footer class="h-[65vh] bg-[#333333] py-16 px-20">
         <div class="flex">
             <div>
                 <img src="{{ asset('images/footer_logo.jpg') }}" alt="Gold Meter & Precious Metal Tester" class="w-32">
@@ -24,11 +24,11 @@
                 </div>
             </div>
             <div class="pl-32">
-                <h1 class="font-urbanist font-medium text-2xl text-white">Alamat Kantor</h1>
+                <h1 class="font-urbanist font-medium text-xl text-white">Alamat Kantor</h1>
                 <p class="text-slate-300 font-light py-4">Jl. Radin Inten II No. 61A Duren Sawit</p>
-                <h1 class="font-urbanist font-medium text-2xl text-white">Email</h1>
+                <h1 class="font-urbanist font-medium text-xl text-white">Email</h1>
                 <p class="text-slate-300 font-light py-4">sales@anm.co.id <br>anugrah.niaga.mandiri@gmail.com</p>
-                <h1 class="font-urbanist font-medium text-2xl text-white">Website</h1>
+                <h1 class="font-urbanist font-medium text-xl text-white">Website</h1>
                 <p class="text-slate-300 font-light pt-4">http://www.anm.co.id</p>
             </div>
             <div class="pl-24">
@@ -86,5 +86,14 @@
                 </div>
 
             </div>
+        </div>
+        <div class="w-full h-[1px] mt-5 bg-slate-300 hover:bg-green-500 transition-all duration-300"></div>
+        <div class=" text-slate-400 text-center p-5">
+            <p class="text-sm">
+                &copy; Copyright 2024
+                <a href="https://anm.co.id" class="text-blue-500 hover:underline">anm.co.id</a>.
+                All Rights Reserved Powered by
+                <a href="https://resolusiweb.com" class="font-bold text-blue-600 hover:underline">Resolusiweb.com</a>.
+            </p>
         </div>
     </footer>
