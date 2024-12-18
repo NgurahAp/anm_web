@@ -1,4 +1,4 @@
-    <section class="h-[80vh] bg-gray-100  py-6 px-36">
+    <section id="contactUs" class="h-[80vh] bg-gray-100  py-6 px-36">
         <div class="flex w-full h-full gap-x-8">
             <div class="w-1/3 bg-white p-5 rounded-lg">
                 <h1 class="font-urbanist text-green-700 font-bold text-lg">Hubungi Kami</h1>

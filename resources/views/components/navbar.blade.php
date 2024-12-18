@@ -7,11 +7,11 @@
             </div>
             <div class="hidden md:block">
                 <div class="flex space-x-6">
-                    <a href="#" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Home</a>
-                    <a href="#" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Why Us?</a>
-                    <a href="#" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Best Product</a>
-                    <a href="#" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">How to Order</a>
-                    <a href="#" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Contact Us</a>
+                    <a href="#home" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Home</a>
+                    <a href="#whyUs" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Why Us?</a>
+                    <a href="#products" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Best Product</a>
+                    <a href="#howToOrder" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">How to Order</a>
+                    <a href="#contactUs" class="text-gray-900 hover:text-red-500 px-3 py-1 text-base font-medium border-b border-transparent hover:border-red-500 transition-all duration-300">Contact Us</a>
                 </div>
             </div>
             <div>

@@ -1,4 +1,4 @@
-<section class="min-h-screen my-10 mx-20">
+<section id="howToOrder" class="min-h-screen my-10 mx-20">
     <div class="flex flex-col text-center font-urbanist">
         <p class="text-lg font-extrabold text-green-800 pt-14 pb-5">Cara Pemesanan</p>
         <h1 class="text-5xl font-extrabold text-gray-800 pb-14">Langkah Mudah untuk Pemesanan</h1>

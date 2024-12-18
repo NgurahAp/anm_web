@@ -1,4 +1,4 @@
- <section class="min-h-screen my-10 mx-20">
+ <section id="products" class="min-h-screen my-10 mx-20">
      <div class="flex flex-col text-center font-urbanist">
          <p class="text-lg font-extrabold text-green-800 pt-14 pb-5">Produk Unggulan Kami</p>
          <h1 class="text-5xl font-extrabold text-gray-800 pb-14">Produk Terbaik untuk Kebutuhan <br> Laboratorium

@@ -1,4 +1,4 @@
-  <section class="min-h-screen flex items-center my-10">
+  <section id="whyUs" class="min-h-screen flex items-center my-10">
         <div class="flex gap-x-10 px-24 ">
             <div class="w-1/2 font-urbanist">
                 <p class="text-green-700 font-extrabold pb-6 text-lg">Mengapa Memilih Kami</p>

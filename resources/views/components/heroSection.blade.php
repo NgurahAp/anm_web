@@ -1,4 +1,4 @@
-<section class="pt-24">
+<section id="home" class="pt-24">
     <div class="bg-white h-[86vh] flex items-center relative">
         <div class="w-2/3 pl-20 font-urbanist">
             <h2 class="text-3xl font-semibold text-gray-800">PT. Anugrah Niaga Mandiri</h2>
